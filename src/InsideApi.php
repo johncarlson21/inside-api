@@ -1,5 +1,5 @@
 <?php
-namespace Chronicle;
+namespace Inside;
 
 use Monolog\Logger;
 use Monolog\Handler\StreamHandler;
